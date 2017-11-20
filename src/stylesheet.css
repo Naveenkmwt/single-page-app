@@ -1,0 +1,220 @@
+.ui.segment.uppderHeader {
+    background-color: #f3f3f3;
+
+}
+
+.ui.basic.segment.lowerHeader {
+    width: 100%;
+    border-top: solid 1px #e5e5e5;
+    border-bottom: solid 3px #e8e8e8;
+    min-height: 70px;
+    margin-top: -1%;
+    background: #f7f7f7;
+}
+
+.ui.segment.uppderHeaderContent {
+    position: relative; 
+    background-color: red;
+    height: 30px;     
+    width: 500px;
+}
+.ui.grid.headerGrid {
+    color: #737171;
+    margin-left: 4%;
+         
+}          
+ 
+i.icon.facebook:before {
+    content: "\F230";
+    color: rebeccapurple;
+}
+
+i.icon.google.plus.square:before {
+    content: "\F0D4";
+    color: firebrick;
+}                                   
+h3.companyName {                    
+    font-size: 1.28571429rem;
+    margin-top: -7%;
+    float: right;
+    margin-right: 58%;     
+}
+
+.ui.secondary.pointing.menu.menuItem{
+    top: 17px;
+    border-bottom: none;
+    margin-top: 4%;
+}
+
+p.description_content{
+    padding:10px;
+    margin:0px;
+    font-size: 30px;
+}
+.ui.basic.segment.serviceContent {
+    margin-left: 150px;
+    margin-top: -173px;
+}
+.ui.basic.segment.serviceImage {
+    width: 177px;
+}
+.ui.icon.header.iconHeading{
+    width: 1323px;
+}
+
+.serviceContainer{
+    width: 1350px;
+    height: 600px;
+}
+
+.aboutContainer {
+    width: 1350px;
+    height: 400px;
+    background: #f7f7f7;
+}
+
+.aboutStyle{
+    width: 100%;
+    height: 400px;
+    background: url("assets/images/remote-worker.jpg") 50% 0 no-repeat fixed;
+}
+
+   
+.aboutDescription_content{
+    color: rgb(255, 255, 255);
+    font-family: Muli, sans-serif;
+    font-size: 15px;
+    font-weight: 500;          
+    line-height: 25px;
+    padding: 30px;
+    width: 1224px;
+    margin-left: 50px;
+
+}
+
+.aboutTitle {
+    color: rgb(255, 255, 255);
+    font-family: Muli, sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    text-align: right;
+    display: inline-block;
+    margin-left: 430px;
+}
+.ui.inverted.grey.button.readMore{
+    margin-left: 44%;
+}
+
+.contactUsContainer{
+    width: 1350px;
+    height: 500px;
+    margin-top : 100px;
+}
+
+.contact-us-background-image-container{
+    width: 1350px;
+    height: 500px;
+    /* z-index: 555555; */
+    position: absolute;
+    filter: brightness(.6);
+    background: url('assets/images/contactUs/contact-1.jpg') 50% 0  no-repeat;
+}
+
+.contactHeading{
+    width: 1350px;
+    height: 150px;
+}
+.contactUsFormContainer{
+    width: 1350px;
+    height: 500px;
+	margin-top:30px;
+    background: #333;
+}                       	
+.ui.grid.contactUsFormGrid{
+    width: 1350px;
+    height: 500px;
+	padding: 0px;
+
+}                                                                                                                               
+.contactUsFormContainer .contactUsFormImage{                 
+    width: 661px;
+    height: 500px;
+    background: url('http://www.themezaa.com/html/pofo/images/homepage-9-parallax-img6.jpg')  no-repeat;
+    background-size: cover;
+																										            
+}                  
+.contactUsFormContainer .contactUsFormHeading{
+    font-size: 22px;
+    text-align: center;
+    color: #FFF;        
+    font-weight: 900;
+    margin-top: 48px;
+   }
+
+.ui.grid.contactAddress{
+    padding: 70px;
+    padding-top: inherit;
+    color: ghostwhite;
+    font-size: larger;          
+    line-height: 30px;
+}
+
+.ui.grid.row.contactRow{
+    padding-top: 50px;
+}
+
+.i.icon.contactIcon{
+background-color: #1b1c1d!important;   
+}
+
+form.ui.form.transparent-form input[type="text"] {
+    background: transparent;
+border: 3px solid white;
+    color: white;
+	border: none;
+    border-bottom: 1px solid #737272       
+}
+.clientContainer{
+    width: 1350px;
+    height: 500px;
+    background: #f7f7f7;
+    padding-top: 52px;
+}
+
+.clientContainer .clientBg{
+    width: 1350px;
+    height: 350px;
+    background: url('assets/images/clients/client.jpg') 50% 0  no-repeat;
+	position: relative;
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+
+.clientContainer .clientSlider{
+    width: 1130px;
+    height: 100px;
+    background: transparent;
+    margin-top: 150px;
+    margin-left: 183px;
+}
+
+.bodyContainer{
+    z-index: -1;
+    position: absolute;
+    height: auto;
+    margin-top: 169px
+}
+.footerContainer{
+    width: 1350px;
+    height: 200px;
+    background: red;
+}
+.contactHeader{
+    background: url('assets/images/contactUs/contact-Background.png');
+
+}
+
